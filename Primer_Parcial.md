@@ -10,7 +10,7 @@ Eréndira Munguía Villanueva
 {7, 13, 7, 12, 8, 15, 17, 17, 10, 11, 15, 13, 15, 9, 9, 9, 16, 11, 13,
 10}
 
-1.  Comprueba que la media, mediana, primer y tercer cuartil son como
+    a)  Comprueba que la media, mediana, primer y tercer cuartil son como
     aparecen en el resumen:
 
 <!-- -->
@@ -18,17 +18,17 @@ Eréndira Munguía Villanueva
     ##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
     ##    7.00    9.00   11.50   11.85   15.00   17.00
 
-1.  Calcula su rango y comprueba que su varianza es 10.45.
+    b)  Calcula su rango y comprueba que su varianza es 10.45.
 
 <!-- -->
 
-1.  Considera el siguiente conjunto de datos: {53.6, 54.4, 53.3, 51.9,
+2.  Considera el siguiente conjunto de datos: {53.6, 54.4, 53.3, 51.9,
     53, 53.2, 58.3, 56.5, 58.3, 55.4, 57, 53.9, 56.4, 56.1, 54.9, 55.8,
     57.5, 56.3, 55.3, 56.2}
 
 <!-- -->
 
-1.  Comprueba que la media, mediana, primer y tercer cuartil son como
+    a)  Comprueba que la media, mediana, primer y tercer cuartil son como
     aparecen en el resumen:
 
 <!-- -->
@@ -36,11 +36,11 @@ Eréndira Munguía Villanueva
     ##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
     ##   51.90   53.83   55.60   55.37   56.42   58.30
 
-1.  Calcula su rango y comprueba que su varianza es 3.27.
+    b)  Calcula su rango y comprueba que su varianza es 3.27.
 
 <!-- -->
 
-1.  Sea
+3.  Sea
     ![\\bar{x}](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;%5Cbar%7Bx%7D "\bar{x}")
     la media y
     ![s^2\_x](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;s%5E2_x "s^2_x")
@@ -62,12 +62,12 @@ Eréndira Munguía Villanueva
 
 <!-- -->
 
-1.  ![\\bar{y}=a\\bar{x}+c](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;%5Cbar%7By%7D%3Da%5Cbar%7Bx%7D%2Bc "\bar{y}=a\bar{x}+c")
-2.  ![s\_y^2=a^2s\_x^2](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;s_y%5E2%3Da%5E2s_x%5E2 "s_y^2=a^2s_x^2")
+    a)  ![\\bar{y}=a\\bar{x}+c](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;%5Cbar%7By%7D%3Da%5Cbar%7Bx%7D%2Bc "\bar{y}=a\bar{x}+c")
+    b)  ![s\_y^2=a^2s\_x^2](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;s_y%5E2%3Da%5E2s_x%5E2 "s_y^2=a^2s_x^2")
 
 <!-- -->
 
-1.  La siguiente tabla contiene sexo, peso de corazón y peso corporal de
+4.  La siguiente tabla contiene sexo, peso de corazón y peso corporal de
     una población de gatitos ¿Qué tipo de variables aparecen?
 
 <!-- -->
