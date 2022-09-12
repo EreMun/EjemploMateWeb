@@ -59,8 +59,10 @@ Eréndira Munguía Villanueva
     y
     ![c](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;c "c")
     son dos constantes arbitrarias. Entonces
-        ![\\bar{y}=a\\bar{x}+c](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;%5Cbar%7By%7D%3Da%5Cbar%7Bx%7D%2Bc "\bar{y}=a\bar{x}+c")
-        ![s\_y^2=a^2s\_x^2](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;s_y%5E2%3Da%5E2s_x%5E2 "s_y^2=a^2s_x^2")
+    
+       a)  ![\\bar{y}=a\\bar{x}+c](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;%5Cbar%7By%7D%3Da%5Cbar%7Bx%7D%2Bc "\bar{y}=a\bar{x}+c")
+       
+       b)  ![s\_y^2=a^2s\_x^2](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;s_y%5E2%3Da%5E2s_x%5E2 "s_y^2=a^2s_x^2")
 
 <!-- -->
 
